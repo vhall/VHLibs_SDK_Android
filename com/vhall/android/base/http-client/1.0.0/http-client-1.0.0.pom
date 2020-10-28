@@ -3,7 +3,7 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.vhall.android.base</groupId>
-  <artifactId>http-clent</artifactId>
+  <artifactId>http-client</artifactId>
   <version>1.0.0</version>
   <packaging>aar</packaging>
   <dependencies>
