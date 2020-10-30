@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.vhall.android.library</groupId>
+  <artifactId>vh-saas-interactive</artifactId>
+  <versioning>
+    <release>5.0.0</release>
+    <versions>
+      <version>5.0.0</version>
+    </versions>
+    <lastUpdated>20201030121016</lastUpdated>
+  </versioning>
+</metadata>
