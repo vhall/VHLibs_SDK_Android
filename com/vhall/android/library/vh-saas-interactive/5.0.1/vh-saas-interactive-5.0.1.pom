@@ -20,9 +20,9 @@
       </exclusions>
     </dependency>
     <dependency>
-      <groupId>VhallAndroidSDKLiveDemo</groupId>
+      <groupId>com.vhall.android.library</groupId>
       <artifactId>vh-saas-sdk</artifactId>
-      <version>unspecified</version>
+      <version>5.0.1</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
