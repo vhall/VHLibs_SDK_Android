@@ -15,14 +15,14 @@
     </dependency>
     <dependency>
       <groupId>com.vhall.android.base</groupId>
-      <artifactId>vhall-dispatch</artifactId>
-      <version>0.0.1-SNAPSHOT</version>
+      <artifactId>vhall-dispatch-native</artifactId>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
     <dependency>
       <groupId>com.vhall.android.base</groupId>
-      <artifactId>vhall-live</artifactId>
-      <version>0.0.2-SNAPSHOT</version>
+      <artifactId>vhall-live-native</artifactId>
+      <version>1.0.0</version>
       <scope>compile</scope>
     </dependency>
   </dependencies>
